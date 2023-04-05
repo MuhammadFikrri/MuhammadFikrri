@@ -5,31 +5,15 @@ Hi, I'm Muhammad Fikri Rabbani!
 	</a>
 </h1>
 
-<p align="center">
-	<a href="https://github.com/MuhammadFikrri">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
-	</a>
-	<a href="https://github.com/MuhammadFikrri">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
-	</a>
-</p>
-<br/>
-<p align="center">
-	<a href="https://github.com/MuhammadFikrri">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-</p>
-
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+💻 I am a self taught Quality Engineering and a Quality Control
+📚 I have a Bachelors in Computer Science from the Institut Teknologi Sepuluh Nopember (ITS) Surabaya 
+📝 I have a strong interest in Quality Engineering and Software Control
+🔭 Working on Quality Engineering and Software Control for more
+🌟 Main languages: JavaScript, C++, Phyton
+🚩 Interested in Quality Engineering and Software Control
 </pre>
 <hr>
 
@@ -79,15 +63,15 @@ Hi, I'm Muhammad Fikri Rabbani!
 -->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://github.com/MuhammadFikrri"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ Muhammad Fikri Rabbani's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<a href="https://github.com/MuhammadFikrri">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MuhammadFikrri&show_icons=true" alt="MuhammadFikrri">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFikrri" alt="MuhammadFikrri">
 	</a>
 	<br/>
 </p>
@@ -106,8 +90,8 @@ Hi, I'm Muhammad Fikri Rabbani!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<a href="https://github.com/MuhammadFikrri">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFikrri&langs_count=8&layout=compact" alt="MuhammadFikrri">
 	</a>
 	<br/>
 <br/>
@@ -116,31 +100,5 @@ Hi, I'm Muhammad Fikri Rabbani!
 <br/>
 
 <table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
+  
 </table>
-
-------
-
-[Bouaskaoun](https://github.com/Bouaskaoun)
-
-Last Edited on: 19/07/2022
