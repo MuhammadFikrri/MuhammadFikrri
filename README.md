@@ -8,8 +8,8 @@ Hi, I'm Muhammad Fikri Rabbani!
 <hr>
 
 <pre>
-💻 I am a self taught Quality Engineering and a Quality Control
-📚 I have a Bachelors in Computer Science from the Institut Teknologi Sepuluh Nopember (ITS) Surabaya 
+💻 I am a Quality Engineering and a Quality Control enthusiast
+📚 I have a Bachelors in Computer Science from the Institut Teknologi Sepuluh Nopember (ITS) Surabaya and graduate from Alterra Academy as Quality Engineer Batch 8
 📝 I have a strong interest in Quality Engineering and Software Control
 🔭 Working on Quality Engineering and Software Control for more
 🌟 Main languages: JavaScript, C++, Phyton
